@@ -33,4 +33,8 @@ npm install
 cp .env.example .env.local
 
 # Jalankan development server
+<<<<<<< HEAD
 npm run dev
+=======
+npm run dev
+>>>>>>> 29e86097c3ad39674ae569092ad676fd54610518
